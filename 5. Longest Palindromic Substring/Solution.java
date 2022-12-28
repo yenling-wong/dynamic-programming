@@ -35,5 +35,4 @@ public class Solution {
         String t = longestPalindrome(s);
         System.out.println(t);
     }
-
 }
